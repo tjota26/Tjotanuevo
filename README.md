@@ -1,1 +1,3 @@
-# Tjotanuevo
+# Ejercicio 1
+## Edison Tanqueno
+
